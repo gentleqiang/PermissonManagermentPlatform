@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.debug.center.model.mapper.ClientTokenMapper" >
+  <resultMap id="BaseResultMap" type="com.debug.pmp.model.entity.ClientToken" >
+    <id column="id" property="id" jdbcType="INTEGER" />
+    <result column="client_id" property="clientId" jdbcType="VARCHAR" />
+    <result column="access_token" property="accessToken" jdbcType="VARCHAR" />
+    <result column="is_active" property="isActive" jdbcType="TINYINT" />
+    <result column="create_time" property="createTime" jdbcType="TIMESTAMP" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    id, client_id, access_token, is_active, create_time
+  </sql>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
+    select 
+    <include refid="Base_Column_List" />
+    from client_token
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer" >
+    delete from client_token
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="com.debug.pmp.model.entity.ClientToken" >
+    insert into client_token (id, client_id, access_token, 
+      is_active, create_time)
+    values (#{id,jdbcType=INTEGER}, #{clientId,jdbcType=VARCHAR}, #{accessToken,jdbcType=VARCHAR}, 
+      #{isActive,jdbcType=TINYINT}, #{createTime,jdbcType=TIMESTAMP})
+  </insert>
+  <insert id="insertSelective" parameterType="com.debug.pmp.model.entity.ClientToken" >
+    insert into client_token
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        id,
+      </if>
+      <if test="clientId != null" >
+        client_id,
+      </if>
+      <if test="accessToken != null" >
+        access_token,
+      </if>
+      <if test="isActive != null" >
+        is_active,
+      </if>
+      <if test="createTime != null" >
+        create_time,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=INTEGER},
+      </if>
+      <if test="clientId != null" >
+        #{clientId,jdbcType=VARCHAR},
+      </if>
+      <if test="accessToken != null" >
+        #{accessToken,jdbcType=VARCHAR},
+      </if>
+      <if test="isActive != null" >
+        #{isActive,jdbcType=TINYINT},
+      </if>
+      <if test="createTime != null" >
+        #{createTime,jdbcType=TIMESTAMP},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.debug.pmp.model.entity.ClientToken" >
+    update client_token
+    <set >
+      <if test="clientId != null" >
+        client_id = #{clientId,jdbcType=VARCHAR},
+      </if>
+      <if test="accessToken != null" >
+        access_token = #{accessToken,jdbcType=VARCHAR},
+      </if>
+      <if test="isActive != null" >
+        is_active = #{isActive,jdbcType=TINYINT},
+      </if>
+      <if test="createTime != null" >
+        create_time = #{createTime,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.debug.pmp.model.entity.ClientToken" >
+    update client_token
+    set client_id = #{clientId,jdbcType=VARCHAR},
+      access_token = #{accessToken,jdbcType=VARCHAR},
+      is_active = #{isActive,jdbcType=TINYINT},
+      create_time = #{createTime,jdbcType=TIMESTAMP}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+
+
+  <select id="selectByToken" resultType="com.debug.pmp.model.entity.ClientToken">
+    SELECT <include refid="Base_Column_List"/>
+    FROM client_token
+    WHERE is_active = 1 AND access_token = #{accessToken}
+  </select>
+
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

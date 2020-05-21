@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce3f6a1f-532e-472e-aebe-3ab3c134880f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/api/target/" />
+    <ignored path="$PROJECT_DIR$/model/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-898344104">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="50" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="19" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.241" value="1" />
+          <entry key="project.open.time.281" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="class" value="81" />
+          <entry key="css" value="5" />
+          <entry key="html" value="45" />
+          <entry key="ico" value="2" />
+          <entry key="java" value="556" />
+          <entry key="js" value="41" />
+          <entry key="png" value="1" />
+          <entry key="properties" value="16" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="83" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="81" />
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="45" />
+          <entry key="Image" value="3" />
+          <entry key="JAVA" value="556" />
+          <entry key="JavaScript" value="41" />
+          <entry key="Manifest" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="16" />
+          <entry key="XML" value="83" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="247" />
+          <entry key="java" value="27089" />
+          <entry key="js" value="39" />
+          <entry key="properties" value="18" />
+          <entry key="xml" value="319" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="237" />
+          <entry key="JAVA" value="27089" />
+          <entry key="JavaScript" value="39" />
+          <entry key="Properties" value="18" />
+          <entry key="SQL" value="10" />
+          <entry key="XML" value="319" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PermissonManagementPlatform" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/service/IAuthService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="66" column="39" lean-forward="true" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>model</find>
+      <find>jquery.min.js</find>
+      <find>updatePassword</find>
+      <find>postList</find>
+      <find>queryList</find>
+      <find>tomcat</find>
+      <find>dubbo.version</find>
+      <find>spring-boot-starter-tomcat</find>
+      <find>spring-boot-starter-web</find>
+      <find>setProtocol</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/impl/SysUserPostServiceImpl.java" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/templates/modules/sys/user.html" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/SysUserService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/impl/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/CommonExceptionHandler/ExceptionHanler.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/CommonExceptionHandler/CommonExceptionHanler.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/controller/SysUserController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/debug/pmp/common/utils/CommonUtil.java" />
+        <option value="$PROJECT_DIR$/model/src/main/resources/mappers/ClientConfigMapper.xml" />
+        <option value="$PROJECT_DIR$/model/src/main/resources/mappers/ClientTokenMapper.xml" />
+        <option value="$PROJECT_DIR$/model/src/main/resources/mappers/SysConfigMapper.xml" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/shiro/UserRealm.java" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/mapper/ClientConfigMapper.java" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/mapper/ClientTokenMapper.java" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/mapper/SysConfigMapper.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/SysConfigService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/controller/SysConfigController.java" />
+        <option value="$PROJECT_DIR$/model/src/main/resources/mappers/SysMenuDao.xml" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/mapper/SysMenuDao.java" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/entity/SysMenuEntity.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/SysMenuService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/controller/SysMenuController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/impl/SysMenuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/templates/modules/sys/menu.html" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/statics/js/modules/sys/menu.js" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/debug/pmp/common/utils/Constant.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/impl/SysConfigServiceImpl.java" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/entity/SysConfig.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/controller/SysLoginController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/init/SystemInitService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/spring/spring-dubbo.xml" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/MainApplication.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/service/IAuthService.java" />
+        <option value="$PROJECT_DIR$/model/src/main/resources/mappers/SysUserDao.xml" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/mapper/SysUserDao.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/common/IMenuService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/common/impl/MenuService.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/service/ICenterService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/common/IUservice.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/dubbo/CenterService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/common/impl/UserService.java" />
+        <option value="$PROJECT_DIR$/api/pom.xml" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/model/pom.xml" />
+        <option value="$PROJECT_DIR$/server/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\apache-maven-3.3.9-jar\repository" />
+        <option name="mavenHome" value="D:/develop/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.3.9-jar\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PermissionManagementPlatform" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PermissionManagementPlatform" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="615" />
+    <option name="width" value="1910" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Ali-Check</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Syntactic ClarificationScala</id>
+          </State>
+          <State>
+            <id>Syntactic SimplificationScala</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PermissonManagementPlatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PermissonManagementPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="sysmenuS&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/impl/SysMenuServiceImpl.java&#10;UserR&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/shiro/UserRealm.java&#10;UserRe&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/shiro/UserRealm.java&#10;sysUserCon&#9;PSI&#9;JAVA://com.debug.pmp.server.controller.SysUserController&#10;sysuserSer&#9;PSI&#9;JAVA://com.debug.pmp.server.service.impl.SysUserServiceImpl&#10;centerSta&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/api/src/main/java/com/debug/pmp/api/response/CenterStatus.java&#10;Connector.class&#9;FILE&#9;jar://D:/develop/apache-maven-3.3.9-jar/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar!/org/apache/catalina/startup/ConnectorCreateRule.class&#10;Connector.&#9;FILE&#9;jar://D:/develop/apache-maven-3.3.9-jar/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar!/org/apache/catalina/connector/Connector.class&#10;Main&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/MainApplication.java&#10;appli&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/resources/application.properties&#10;shi&#9;PSI&#9;JAVA://com.debug.pmp.server.config.ShiroConfig&#10;userRea&#9;PSI&#9;JAVA://com.debug.pmp.server.shiro.UserRealm&#10;syslogin&#9;PSI&#9;JAVA://com.debug.pmp.server.controller.SysLoginController&#10;SYSlOGcO&#9;PSI&#9;JAVA://ch.qos.logback.core.net.SyslogConstants&#10;base&#9;PSI&#9;JAVA://com.debug.pmp.server.controller.BaseController&#10;init&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/init/SystemInitService.java&#10;sysConfigCo&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysConfigController.java&#10;syscon&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/SysConfigService.java&#10;applica&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/resources/application.properties&#10;menu.js&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/sys/menu.js&#10;sysmenucon&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysMenuController.java&#10; com.debug.pmp.model.mapper.SysConfigMapper.selectAll&#9;PSI&#9;JAVA://com.debug.pmp.model.mapper.SysConfigMapper#selectAll&#10;menu.htm&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/resources/templates/modules/sys/menu.html&#10;application&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/jfxrt.jar!/javafx/application/Application.class&#10;sysConfigMapp&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/model/src/main/resources/mappers/SysConfigMapper.xml&#10;sysconfigCo&#9;null&#9;null&#10;sysConfigcON&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysConfigController.java&#10;SysMenuCon&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysMenuController.java&#10;menu.html&#9;null&#9;null&#10;User&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/shiro/UserRealm.java&#10;UserCon&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysUserController.java&#10;UserRea&#9;PSI&#9;JAVA://com.debug.pmp.server.shiro.UserRealm&#10;Cons&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/common/src/main/java/com/debug/pmp/common/utils/Constant.java&#10;user.js&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/sys/user.js&#10;user.html&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/resources/templates/modules/sys/user.html&#10;sysRoleServiceI&#9;PSI&#9;JAVA://com.debug.pmp.server.service.impl.SysRoleServiceImpl&#10;sysRole&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/impl/SysUserRoleServiceImpl.java&#10;userjs&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/sys/user.js&#10;sysroleMenu&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/impl/SysRoleMenuServiceImpl.java&#10;SysUserPostServiceImpl&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/impl/SysUserPostServiceImpl.java&#10;sysPostCon&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysPostController.java&#10;user.htm&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/resources/templates/modules/sys/user.html&#10;postD&#9;PSI&#9;JAVA://com.debug.pmp.model.mapper.SysPostDao&#10;sysroledAO.&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/model/src/main/resources/mappers/SysRoleDao.xml&#10;sysroleDao&#9;PSI&#9;JAVA://com.debug.pmp.model.mapper.SysRoleDao&#10;roleCon&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysRoleController.java&#10;sysuser&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysUserController.java&#10;dept.js&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/sys/dept.js&#10;sysdeptCon&#9;PSI&#9;JAVA://com.debug.pmp.server.controller.SysDeptController&#10;sysRoleCon&#9;FILE&#9;file://D:/WorkSpaceLearning/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysRoleController.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589890264413" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server/target/pmp-1.0-SNAPSHOT.jar" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.117179744" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.debug.pmp.server.service" />
+      <recent name="com.debug.pmp.server.controller" />
+      <recent name="com.debug.pmp.server.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpaceLearning\PermissonManagementPlatform\server\src\main\resources" />
+      <recent name="D:\WorkSpaceLearning\PermissonManagementPlatform\server\src\main\resources\templates\modules\sys" />
+      <recent name="D:\WorkSpaceLearning\PermissonManagementPlatform\model\src\main\java\com\debug\pmp\model\entity" />
+      <recent name="D:\WorkSpaceLearning\PermissonManagementPlatform\api\src\main\java\com\debug\pmp\api" />
+      <recent name="D:\WorkSpaceLearning\PermissonManagementPlatform\model\src\main\resources\mappers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="CommonUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.debug.pmp.common.utils.CommonUtil" />
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.pmp.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="PermissonManagementPlatform" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="PermissonManagementPlatform" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.debug.pmp.server.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_PermissonManagementPlatform" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56708" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56717" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_PermissonManagementPlatform_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56710" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56711" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MainApplication" />
+      <item itemvalue="Application.CommonUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CommonUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce3f6a1f-532e-472e-aebe-3ab3c134880f" name="Default Changelist" comment="" />
+      <created>1581581190300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581581190300</updated>
+      <workItem from="1581581196832" duration="3366000" />
+      <workItem from="1581591911155" duration="7508000" />
+      <workItem from="1581600512960" duration="2624000" />
+      <workItem from="1581654659250" duration="32255000" />
+      <workItem from="1582615085820" duration="5770000" />
+      <workItem from="1582631147973" duration="1520000" />
+      <workItem from="1582714962992" duration="3213000" />
+      <workItem from="1582799903062" duration="762000" />
+      <workItem from="1582862447451" duration="7596000" />
+      <workItem from="1582874156693" duration="1352000" />
+      <workItem from="1582875931053" duration="545000" />
+      <workItem from="1582876540902" duration="6934000" />
+      <workItem from="1582884350559" duration="13908000" />
+      <workItem from="1582958868183" duration="2737000" />
+      <workItem from="1583031568541" duration="11069000" />
+      <workItem from="1583063066996" duration="754000" />
+      <workItem from="1583063825360" duration="551000" />
+      <workItem from="1583120024361" duration="10234000" />
+      <workItem from="1583210646200" duration="15303000" />
+      <workItem from="1583300120388" duration="4524000" />
+      <workItem from="1583305284915" duration="5603000" />
+      <workItem from="1583311319886" duration="2142000" />
+      <workItem from="1583375495489" duration="8600000" />
+      <workItem from="1583388897076" duration="10223000" />
+      <workItem from="1583472180403" duration="2833000" />
+      <workItem from="1583728669795" duration="1672000" />
+      <workItem from="1586390985920" duration="3861000" />
+      <workItem from="1586503152922" duration="22000" />
+      <workItem from="1586659056648" duration="656000" />
+      <workItem from="1586742422434" duration="1648000" />
+      <workItem from="1587014028843" duration="616000" />
+      <workItem from="1587015747787" duration="2849000" />
+      <workItem from="1587442846670" duration="3103000" />
+      <workItem from="1588768712502" duration="4729000" />
+      <workItem from="1588773807291" duration="152000" />
+      <workItem from="1588774014804" duration="114000" />
+      <workItem from="1588774168798" duration="36000" />
+      <workItem from="1588774232050" duration="2910000" />
+      <workItem from="1588856542796" duration="54000" />
+      <workItem from="1588857112992" duration="74000" />
+      <workItem from="1588857980716" duration="76000" />
+      <workItem from="1588859198270" duration="18000" />
+      <workItem from="1588942236145" duration="3607000" />
+      <workItem from="1588948279739" duration="7578000" />
+      <workItem from="1589204139281" duration="16973000" />
+      <workItem from="1589382292780" duration="830000" />
+      <workItem from="1589383139585" duration="32248000" />
+      <workItem from="1589888830958" duration="481000" />
+      <workItem from="1589890029242" duration="160000" />
+      <workItem from="1589890253861" duration="32000" />
+      <workItem from="1589890288549" duration="2000" />
+      <workItem from="1589890550142" duration="195000" />
+      <workItem from="1589891857847" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="246642000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4315197" visible="true" weight="0.21380697" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5684803" side_tool="true" weight="0.30294907" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" sideWeight="0.16035634" side_tool="true" weight="0.18967828" />
+      <window_info id="Structure" order="7" sideWeight="0.8448023" weight="0.424933" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5592972" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1566618" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.9267936" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32650074" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32650074" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.761347" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006878" side_tool="true" weight="0.6587888" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49931225" weight="0.7554905" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32503662" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="15" weight="0.17715959" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.3585791" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3293092" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/config/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="61" column="20" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/init/SystemInitService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="65" column="77" selection-start-line="65" selection-start-column="77" selection-end-line="65" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/dto/ClientDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/dto/UserDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/dto/UserPermsDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar!/org/apache/catalina/startup/ConnectorCreateRule.class" />
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar!/org/apache/catalina/connector/Connector.class" />
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/boot/spring-boot-starter-tomcat/2.1.3.RELEASE/spring-boot-starter-tomcat-2.1.3.RELEASE.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/dto/MenuDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/dubbo.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/spring/spring-dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/dto/LoginDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/RandomStringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/SysPostService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/controller/SysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="103" column="40" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/impl/SysUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="108" column="39" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/SysConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/SysDeptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/entity/SysUserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/mapper/SysConfigMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/resources/mappers/SysConfigMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2691" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/response/CenterResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/debug/pmp/common/utils/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/SysMenuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/impl/SysMenuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/mapper/SysMenuDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/shiro/UserRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="55" column="43" lean-forward="true" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/resources/mappers/SysUserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/debug/pmp/model/mapper/SysUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/common/IMenuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/response/CenterStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/dto/UpdatePsdDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/service/ICenterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/dubbo/CenterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2382">
+          <caret line="104" column="26" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/common/IUservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/common/impl/MenuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/common/impl/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/debug/pmp/api/service/IAuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="66" column="39" lean-forward="true" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>model</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.tomcat.embed:tomcat-embed-el:9.0.16</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.117179744" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.09950249" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

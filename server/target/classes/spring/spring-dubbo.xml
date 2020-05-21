@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+
+		http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!--待发布的dubbo服务类所在包的注解-->
+    <dubbo:annotation package="com.debug.pmp.server.dubbo" />
+
+    <!--注册中心zookeeper配置信息-->
+    <dubbo:registry address="${dubbo.registry.address}" />
+
+    <!--支持两种协议的调用：dubbo-rpc协议；http-restful api调用-->
+    <dubbo:protocol name="dubbo" />
+    <dubbo:protocol name="rest" threads="500" contextpath="v1" server="tomcat" accepts="500"/>
+
+
+    <!--服务提供方所在的 “提供商” 配置-->
+	<dubbo:application name="SpringBoot_Center_DubboService" owner="debug" organization="dubbox"/>
+
+
+
+
+
+</beans>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
