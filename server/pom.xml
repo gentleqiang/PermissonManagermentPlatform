@@ -21,7 +21,7 @@
         <qiniu.version>[7.2.0, 7.2.99]</qiniu.version>
         <aliyun.oss.version>2.5.0</aliyun.oss.version>
         <qcloud.cos.version>4.4</qcloud.cos.version>
-        <dubbo.version>2.6.4</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <zookeeper.version>3.4.10</zookeeper.version>
         <resteasy.version>3.0.7.Final</resteasy.version>
         <cglib.version>3.1</cglib.version>
